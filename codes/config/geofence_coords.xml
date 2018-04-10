@@ -1,0 +1,21 @@
+<geofence_coordinates>
+
+<horizontal_coords>
+        <val_h value="1.11222"  />
+        <val_h value="1.13333"  />
+        <val_h value="1.14554"  />
+		<val_h value="1.16555"  />
+    </horizontal_coords>
+
+
+<vertical_coords>
+        <val_v value="2.15677"  />
+        <val_v value="2.16675"  />
+        <val_v value="2.14556"  />
+		<val_v value="2.15666"  />
+    </vertical_coords>
+	
+</geofence_coordinates>
+
+
+
